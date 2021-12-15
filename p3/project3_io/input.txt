@@ -1,0 +1,23 @@
+case 1: 
+./blackjack 4 2 counting sc
+
+case 2: 
+./blackjack 4 2 counting sos
+
+case 3: 
+./blackjack 4 2 simple sc
+
+case 4: 
+./blackjack 4 2 simple sos
+
+case 5: 
+./blackjack 5 1 counting sc
+
+case 6: 
+./blackjack 5 1 counting sos
+
+case 7: 
+./blackjack 5 1 simple sc
+
+case 8: 
+./blackjack 5 1 simple sos

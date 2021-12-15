@@ -1,0 +1,124 @@
+Shuffling the deck
+cut at 39
+cut at 22
+cut at 33
+cut at 37
+cut at 38
+cut at 37
+cut at 38
+Hand 1 bankroll 10
+Player: Joseph Joestar bets 5
+Player: Joseph Joestar dealt King of Spades
+Dealer: Suzumiya Haruhi dealt Three of Diamonds
+Player: Joseph Joestar dealt Six of Diamonds
+Player: Joseph Joestar's total is 16
+Dealer: Suzumiya Haruhi's hole card is Four of Spades
+Dealer: Suzumiya Haruhi dealt Ten of Hearts
+Dealer: Suzumiya Haruhi's total is 17
+Dealer: Suzumiya Haruhi wins this hand
+Player: Joseph Joestar has 5 after 1 hands
+Dealer: Suzumiya Haruhi has been kicked out. The winner of this round is Joseph Joestar.
+Player: Joseph Joestar: "Nice!"
+Shuffling the deck
+cut at 23
+cut at 23
+cut at 22
+cut at 39
+cut at 33
+cut at 19
+cut at 25
+Hand 1 bankroll 5
+Player: Joseph Joestar bets 5
+Player: Joseph Joestar dealt Three of Clubs
+Dealer: Nagato Yuki dealt Ace of Spades
+Player: Joseph Joestar dealt Ace of Hearts
+Player: Joseph Joestar dealt Eight of Diamonds
+Player: Joseph Joestar dealt Two of Hearts
+Player: Joseph Joestar dealt Queen of Clubs
+Player: Joseph Joestar's total is 24
+Player: Joseph Joestar busts
+Player: Joseph Joestar has 0 after 1 hands
+Player: Joseph Joestar: "Ni Ge Run Da Yo"
+Player: Joseph Joestar has been kicked out. The winner of this round is Nagato Yuki.
+Shuffling the deck
+cut at 23
+cut at 24
+cut at 31
+cut at 22
+cut at 27
+cut at 34
+cut at 30
+Hand 1 bankroll 5
+Player: Kujo Jotaro bets 5
+Player: Kujo Jotaro dealt Nine of Spades
+Dealer: Nagato Yuki dealt Two of Hearts
+Player: Kujo Jotaro dealt Five of Spades
+Player: Kujo Jotaro's total is 14
+Dealer: Nagato Yuki's hole card is Four of Spades
+Dealer: Nagato Yuki dealt Seven of Spades
+Dealer: Nagato Yuki dealt Nine of Diamonds
+Dealer: Nagato Yuki's total is 22
+Dealer: Nagato Yuki busts
+Player: Kujo Jotaro has 10 after 1 hands
+Dealer: Nagato Yuki has been kicked out. The winner of this round is Kujo Jotaro.
+Shuffling the deck
+cut at 24
+cut at 21
+cut at 33
+cut at 39
+cut at 27
+cut at 20
+cut at 21
+Hand 1 bankroll 10
+Player: Kujo Jotaro bets 5
+Player: Kujo Jotaro dealt Four of Clubs
+Dealer: Asahina Mikuru dealt Six of Spades
+Player: Kujo Jotaro dealt Nine of Spades
+Player: Kujo Jotaro's total is 13
+Dealer: Asahina Mikuru's hole card is Four of Diamonds
+Dealer: Asahina Mikuru dealt Seven of Hearts
+Dealer: Asahina Mikuru's total is 17
+Dealer: Asahina Mikuru wins this hand
+Player: Kujo Jotaro has 5 after 1 hands
+Dealer: Asahina Mikuru has been kicked out. The winner of this round is Kujo Jotaro.
+Shuffling the deck
+cut at 19
+cut at 22
+cut at 32
+cut at 13
+cut at 30
+cut at 28
+cut at 14
+Hand 1 bankroll 5
+Player: Kujo Jotaro bets 5
+Player: Kujo Jotaro dealt King of Hearts
+Dealer: Kyon dealt Six of Diamonds
+Player: Kujo Jotaro dealt Eight of Clubs
+Player: Kujo Jotaro's total is 18
+Dealer: Kyon's hole card is Eight of Hearts
+Dealer: Kyon dealt Jack of Spades
+Dealer: Kyon's total is 24
+Dealer: Kyon busts
+Player: Kujo Jotaro has 10 after 1 hands
+Dealer: Kyon has been kicked out. The winner of this round is Kujo Jotaro.
+Shuffling the deck
+cut at 28
+cut at 14
+cut at 39
+cut at 30
+cut at 38
+cut at 24
+cut at 34
+Hand 1 bankroll 10
+Player: Kujo Jotaro bets 5
+Player: Kujo Jotaro dealt Ten of Diamonds
+Dealer: Koizumi Itzuki dealt Eight of Hearts
+Player: Kujo Jotaro dealt Ten of Clubs
+Player: Kujo Jotaro's total is 20
+Dealer: Koizumi Itzuki's hole card is Four of Spades
+Dealer: Koizumi Itzuki dealt Five of Diamonds
+Dealer: Koizumi Itzuki's total is 17
+Player: Kujo Jotaro wins this hand
+Player: Kujo Jotaro has 15 after 1 hands
+Dealer: Koizumi Itzuki has been kicked out. The winner of this round is Kujo Jotaro.
+Game over. The winner is Stardust Crusaders. SOS Brigade will return the computer to Joseph Joestar and Suzumiya Haruhi will become a member of Stardust Crusaders
