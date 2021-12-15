@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/junsi/Desktop/VE280/lab/LAB3/lab3/ex1.cpp
+iostream
+-
+limits.h
+-
+ex1.h
+/Users/junsi/Desktop/VE280/lab/LAB3/lab3/ex1.h
+
+/Users/junsi/Desktop/VE280/lab/LAB3/lab3/ex1.h
+
