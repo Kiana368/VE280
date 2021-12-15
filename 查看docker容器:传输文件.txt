@@ -1,0 +1,9 @@
+1. docker ps                             查看container 状态
+
+2. docker inspect 【container id】        查看该container信息
+
+3. docker cp container_id:<docker容器内的路径> <本地保存文件的路径>   docker容器向主机传送文件
+   Eg. docker cp fce6cbcd0ca7:/home/tiij/file1.txt /Users/junsi/Desktop/linux
+
+4. docker cp 本地文件的路径 container_id:<docker容器内的路径>        主机向docker容器传送文件
+   Eg. docker cp /Users/junsi/Desktop/linux/Dockerfile.txt fce6cbcd0ca7:/home/tiij

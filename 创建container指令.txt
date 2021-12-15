@@ -1,0 +1,19 @@
+1. docker run -d -it --volume=/Users/junsi/develop:/home/tiij/code --name u280 makersmelx/ubuntu280
+
+docker exec -it u280 /bin/bash
+
+Exit
+
+docker ps
+
+
+2. 进入container的终端后，pwd
+cd /home/tiij 
+进入拥有者区域
+
+
+3. vim中的保存退出命令是wq。
+具体方法:首先按i键进入插入模式;然后编辑文件;接着按esc键进入命令行模式;最后输入【:wq】即可保存文件并退出。
+
+4. 记得每次一打开终端都要输入 alias rm='rm -i'
+避免误删文件
